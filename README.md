@@ -22,7 +22,7 @@
 ### Clone Repository
 
 ```
-git clone https://github.com/jrussumbrella/dress-shop-web.git
+git clone https://github.com/weedgit/Shop-dress.git
 ```
 
 ### Client Installation
